@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01",
+			"Vlad5250"
+		]
+	},
+	"oathauth-token": "Žeton",
+	"right-oathauth-enable": "omogućivanje dvofaktorske potvrde identiteta"
+}
