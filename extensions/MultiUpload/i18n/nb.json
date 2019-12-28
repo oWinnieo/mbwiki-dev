@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nghtwlkr"
+		]
+	},
+	"multiupload-desc": "Gjør det mulig å [[Special:MultipleUpload|laste opp flere filer på én gang]]",
+	"multipleupload": "Last opp flere filer"
+}

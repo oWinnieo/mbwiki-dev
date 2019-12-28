@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84"
+		]
+	},
+	"multiupload-desc": "Umožňuje používateľom [[Special:MultipleUpload|nahrať viacero súborov naraz]]",
+	"multipleupload": "Nahrať viaceré súbory"
+}

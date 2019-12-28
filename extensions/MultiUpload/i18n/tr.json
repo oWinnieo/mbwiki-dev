@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseph"
+		]
+	},
+	"multiupload-desc": "Kullanıcıların [[Special:MultipleUpload|aynı anda birçok dosya yüklemelerine]] izin verir",
+	"multipleupload": "Birden fazla dosya yükle"
+}
